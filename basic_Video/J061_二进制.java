@@ -5,6 +5,7 @@
  *  3. 八进制（Octal）：以 0 开头
  *  4. 十六进制（Hex）：以 0x 或者 0X 开头
  */
+package basic_Video;
 
 public class J061_二进制 {
     public static void main(String[] args) {

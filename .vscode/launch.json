@@ -1,0 +1,217 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ex07_02",
+            "request": "launch",
+            "mainClass": "basic_book.chap07.ex07_02",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "ex07_01",
+            "request": "launch",
+            "mainClass": "basic_book.chap07.ex07_01",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "ex07_01",
+            "request": "launch",
+            "mainClass": "chap07.ex07_01",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "ex07_01",
+            "request": "launch",
+            "mainClass": "ex07_01",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J035_Java注释",
+            "request": "launch",
+            "mainClass": "basic_Video.J035_Java注释",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J038_总结",
+            "request": "launch",
+            "mainClass": "basic_Video.J038_总结",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J044_标识符",
+            "request": "launch",
+            "mainClass": "basic_Video.J044_标识符",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J046_变量的定义",
+            "request": "launch",
+            "mainClass": "basic_Video.J046_变量的定义",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J054_自动类型转换",
+            "request": "launch",
+            "mainClass": "basic_Video.J054_自动类型转换",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J056_强制类型转换",
+            "request": "launch",
+            "mainClass": "basic_Video.J056_强制类型转换",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J058_String数据类型",
+            "request": "launch",
+            "mainClass": "basic_Video.J058_String数据类型",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J061_二进制",
+            "request": "launch",
+            "mainClass": "basic_Video.J061_二进制",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J070_Java运算符",
+            "request": "launch",
+            "mainClass": "basic_Video.J070_Java运算符",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J092_使用Scanner",
+            "request": "launch",
+            "mainClass": "basic_Video.J092_使用Scanner",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J100_switch语句",
+            "request": "launch",
+            "mainClass": "basic_Video.J100_switch语句",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J107_for循环",
+            "request": "launch",
+            "mainClass": "basic_Video.J107_for循环",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J138_数组概述",
+            "request": "launch",
+            "mainClass": "basic_Video.J138_数组概述",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J147_二维数组",
+            "request": "launch",
+            "mainClass": "basic_Video.J147_二维数组",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J158回形数",
+            "request": "launch",
+            "mainClass": "basic_Video.J158回形数",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "J001",
+            "request": "launch",
+            "mainClass": "basic_Video.Java练习.J001",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "ProductTable01",
+            "request": "launch",
+            "mainClass": "basic_Video.Java练习.ProductTable01",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "basic_Video.Java练习.Test",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "Prime$Prime",
+            "request": "launch",
+            "mainClass": "basic_Video.Prime$Prime",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "basic_Video.Sum",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "basic_Video.Test",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "basic_Video.Tree",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "basic_Video.test",
+            "projectName": "java-learning_95f5c31a"
+        },
+        {
+            "type": "java",
+            "name": "ex07_01",
+            "request": "launch",
+            "mainClass": "basic_book.ex07_01",
+            "projectName": "java-learning_95f5c31a"
+        }
+    ]
+}
