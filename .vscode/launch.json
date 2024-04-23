@@ -9,6 +9,13 @@
             "name": "HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld",
+            "projectName": "java-learning_5edf8cc1"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
             "projectName": "java-learning_22e389fa"
         },
         {
