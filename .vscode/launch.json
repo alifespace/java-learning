@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex07_02",
+            "request": "launch",
+            "mainClass": "basic_book.chap07.ex07_02",
+            "projectName": "java-learning_5edf8cc1"
+        },
+        {
+            "type": "java",
             "name": "HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld",
